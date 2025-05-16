@@ -1,4 +1,8 @@
 h1 {
     background-color: cornflowerblue;
-    color: antiquewhite;
+    color: whitesmoke;
+}
+
+img {
+    height: 50vh;
 }
