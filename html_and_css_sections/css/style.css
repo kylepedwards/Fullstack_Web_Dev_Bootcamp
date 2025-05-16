@@ -6,3 +6,9 @@ h1 {
 img {
     height: 50vh;
 }
+
+button {
+    background-color: red;
+    color: white;
+    padding: 15px 15px;
+}
