@@ -1,8 +1,19 @@
+body {
+    background-color: antiquewhite;
+}
+
 h1 {
     background-color: cornflowerblue;
     color: antiquewhite;
 }
 
 img {
+    height: auto;
     width: 50vw;
+}
+
+@media (max-width: 640px) {
+    body {
+        background-color: red;
+    }
 }
