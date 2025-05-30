@@ -36,3 +36,4 @@ const box = document.getElementById("container_number_1");
 box.innerText = "This bit of text was altered by JavaScript.";
 box.innerHTML = "Another alteration by JavaScript";
 */
+
