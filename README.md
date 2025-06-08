@@ -1,3 +1,3 @@
-# Full Stack Web Development with Django 5, TailwindCSS, HTMX
+# Personal Fullstack Web Development Bootcamp
 
-Notes, practice, and projects from [Full Stack Web Development with Django 5, TailwindCSS, HTMX](https://www.udemy.com/course/full-stack-django).
+Notes, practice, and projects from [The Ultimate 2025 Fullstack Web Development Bootcamp](https://www.udemy.com/course/the-ultimate-fullstack-web-development-bootcamp) (and other resources).
