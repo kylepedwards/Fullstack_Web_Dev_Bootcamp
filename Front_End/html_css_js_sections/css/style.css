@@ -10,3 +10,10 @@ footer {
     width: 100%;
     text-align: center;
 }
+
+@media (max-width: 640px) {
+    body {
+        background-color: royalblue;
+        color: white;
+    }
+}
