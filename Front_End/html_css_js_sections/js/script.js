@@ -5,7 +5,7 @@ console.log("\nHello World!\n")
 // Var, Let, Const
 var variableName = "This is a 'variable'.";
 let letName = "This is a 'let'.";
-const constName = "This is a 'const'.";
+const CONSTNAME = "This is a 'const'.";
 
 // This is a single-line comment.
 /*
@@ -28,15 +28,15 @@ var obj = {
     'object1': 'object2'
 };
 
-// Conditionals
+// Conditionals (with template strings)
 var number = 25;
 
 if (number >= 21) {
-    console.log("\nNumber is greater than 21.");
+    console.log(`\n${number} is greater than 21.\n`);
 } else if (number == 21) {
-    console.log("\nNumber matches 21.");
+    console.log(`\n${number} matches 21.\n`);
 } else {
-    console.log("\nNumber is less than 21.");
+    console.log(`\n${number} is less than 21.\n`);
 };
 
 // DOM manipulation
@@ -64,3 +64,11 @@ function firstFunction() {
 };
 
 firstFunction();
+
+// While loops
+// Old version
+let while_dummy_variable = 0;
+while (while_dummy_variable < 6) {
+    console.log(while_dummy_variable);
+    while_dummy_variable++;
+};
