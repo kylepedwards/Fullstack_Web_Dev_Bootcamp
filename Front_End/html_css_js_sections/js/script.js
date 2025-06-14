@@ -1,3 +1,5 @@
+"use strict";
+
 console.log("\nHello World!\n")
 
 // Var, Let, Const
