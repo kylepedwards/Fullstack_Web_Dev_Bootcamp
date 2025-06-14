@@ -72,3 +72,29 @@ while (while_dummy_variable < 6) {
     console.log(while_dummy_variable);
     while_dummy_variable++;
 };
+
+// Arrow functions - another way of writing anonymous functions
+const HELLO = () => {
+    console.log("\nHello World!\n");
+};
+HELLO();
+
+const HEY = () => console.log("\nHey!\n");
+HEY();
+
+// Classes
+class FirstClass {
+    setName(name) {
+        this.name = name
+    }
+    
+    speak() {
+        console.log(`\nHello from ${this.name}!\n`);
+    }
+};
+
+const classy = new FirstClass()
+classy.setName("'FirstClass'");
+classy.speak();
+
+// JSON, Ajax, and fetch API
