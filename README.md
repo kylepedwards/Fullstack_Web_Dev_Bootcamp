@@ -1,3 +1,3 @@
 # Personal Web Development Bootcamp
 
-Notes, practice, and projects from various online resources (courses, videos, _etc._).
+Notes, practice, and projects from various online resources (courses, videos, *etc.*).
